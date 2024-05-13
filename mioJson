@@ -1,0 +1,28 @@
+{
+  "nome": "Giovanni",
+  "cognome": "Bianchi",
+  "eta": 35,
+  "indirizzo": {
+    "via": "Via Roma 21",
+    "citta": "Piacenza",
+    "stato": "Italia",
+    "cap": "30034"
+  },
+  "telefoni": [
+    {
+      "tipo": "casa",
+      "numero": "098234398"
+    },
+    {
+      "tipo": "ufficio",
+      "numero": "3450004933"
+    }
+  ],
+  "figli": [
+      "Filomena",
+      "Marco",
+      "Ciccio"
+  ],
+  "coniuge": null,
+  "inPensione": false
+}
